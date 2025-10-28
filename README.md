@@ -58,18 +58,5 @@ It allows you to **generate strong passwords, save them locally, search existing
         python main.py
   ----
 
-###📁 Project Structure
-Password-Vault-GUI/
-│
-├── main.py              # Main Tkinter application
-├── data.json             # Local credential storage (auto-created)
-├── screenshots/           # Place your UI screenshots here
-│   ├── main_window.png
-│   ├── password_generate.png
-│   ├── password_saved.png
-│   ├── all_saved_passwords.png
-│   └── data_fetch.png
-└── README.md
-----
 👨‍💻 Author
 Jay Mondal
